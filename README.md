@@ -4,7 +4,7 @@
 Making a bus stop bell using Arduino
  * Playing WAV bell sounds from SD card with real button
  * Select various sounds with button switch and OLED screen
- * Use independently with Lithum battery pack / charing module, no power cable needed
+ * Use independently with Lithum battery pack / charging module, no power cable needed
 
 # Schematics
 <img src="https://github.com/windship/BusStopBell/assets/24471913/dea7fe14-2ac2-40fa-a665-5ae81d1f3949" width="75%" height="75%">
